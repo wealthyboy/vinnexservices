@@ -1,114 +1,89 @@
- <?php include 'config.php';         include 'database.php';
- ?><!DOCTYPE html>
-<html lang="en-US">
+<?php  include('database.php') ?>
+<?php  include('config.php') ?>
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="utf-8">
-    <meta name="description" content="">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="<?php echo $settings['site_meta_title']?>" />
-    <meta name="author" content="xWB">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <!-- Title -->
-    <title><?php  ?></title>
-    
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/png" href="assets/images/fevicon.png">
-    
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    
-    <!-- Font awesome CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    
-   
-    
-    <!-- Animate CSS -->
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    
-    <!-- OwlCarousel CSS -->
-    <link rel="stylesheet" href="assets/css/owl.carousel.css">
-    
-    <!-- Magnific popup CSS -->
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    
-    <!-- chat CSS -->
-    <link rel="stylesheet" href="assets/css/chat.css">
-    
-    <!-- Slicknav CSS -->
-    <link rel="stylesheet" href="assets/css/slicknav.min.css">
-    
-    <!-- Date picker CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap-datepicker.min.css">
-    
-    <!-- Main CSS -->
-    <link rel="stylesheet" href="assets/css/style.css">
-    
-    <!-- Responsive CSS -->
-    <link rel="stylesheet" href="assets/css/responsive.css">
-    
-    <!-- jQuery -->
-    <script src="assets/js/jquery-2.1.3.min.js"></script>
+<meta charset="utf-8">
+<title>Vinnex Services | <?php   echo isset($page_title) ? $page_title : 'Home';  ?></title>
+<!-- Stylesheets -->
+<link href="/css/bootstrap.css" rel="stylesheet">
+<link href="/css/revolution-slider.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="/css/responsive.css" rel="stylesheet">
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 </head>
+
 <body>
-  <!-- skiptocontent start ( This section for blind and Google SEO, Also for page speed )-->
-  <a id="skiptocontent" href="#maincontent">skip navigation</a>
-  <!-- skiptocontent End -->
-<header>
-    <!-- Header top area start -->
-	<div class="header-top-area">
-       <div class="container">
-          <div class="row">
-             <div class="col-12 col-lg-8">
-                <div class="top-contact">
-                   <a href="#"><i class="fa fa-envelope"></i> <?php echo $settings['site_email']?></a>
-                   <a href="#"><i class="fa fa-phone"></i> <?php echo $settings['site_tel']?></a>
-                   
-                </div>   
-             </div>
-             <div class="col-12 col-lg-4">
-                
-             </div>
-          </div>
-       </div>
-    </div>
-    <!-- Header top area End -->
-    
-    <!-- Header area start -->
-	<div class="header-area">
-      <div class="container"> 
-        <!-- Site logo Start --> 
-        <div class="logo">
-          <a href="index.php" title="W-shipping"><img src="assets/images/image_1.png" alt="W-shipping"/></a>
+<div class="page-wrapper">
+ 	
+    <!-- Preloader -->
+    <div class="preloader"></div>
+ 	
+    <!-- Main Header -->
+    <header class="main-header">
+    	<!--Header-Upper-->
+        <div class="header-upper">
+        	<div class="top-bar">
+            	<div class="auto-container clearfix">
+                	<!--Top Right-->
+                    <div class="top-right">
+                        <ul class="clearfix">
+                            <li><span class="icon flaticon-phone41"></span> <?php echo $settings['site_phone']  ?></li>
+                            <li><span class="icon flaticon-mail4"></span> <?php echo $settings['site_email'] ?></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        	<div class="auto-container">
+            	<div class="clearfix">
+                	
+                    <!--Logo-->
+                	<div class="pull-left logo-outer">
+                    	<div class="logo"><a href="index.php"><img src="images/vinnex_logo.png" alt="" title="Logika"></a></div>
+                    </div>
+                    
+                    
+                </div>
+            </div>
         </div>
-        <!-- Site logo end -->
-        <div class="mobile-menu-wrapper"></div>
-      
         
-        <!-- Main menu start -->
-        <nav class="mainmenu">
-          <ul id="navigation">
-             <li class=""><a href="index.php">Home</a>
-            
-             </li>
-               <li ><a href="about.php">About Us</a>  
-             </li>
-             <li ><a href="#">Services</a>
-                <ul>
-                 <?php foreach ($services as $key => $details):?>
+        <!--Header-Lower-->
+        <div class="header-lower">
+        	<div class="auto-container clearfix">
+            	<!-- Main Menu -->
+                <nav class="main-menu">
+                    <div class="navbar-header">
+                        <!-- Toggle Button -->    	
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    
+                    <div class="navbar-collapse collapse clearfix">
+                        <ul class="navigation clearfix">
+                            <li class="current "><a href="index.php">Home</a>
+                                
+                            </li>
+                            <li><a href="about_us.php">About us</a></li>
+                            <li class=""><a href="services.php">Services</a>
+                                
+                            </li>
+                           
+                            <li><a href="contact_us.php">Contact</a></li>
+                        </ul>
+                    </div>
+                </nav><!-- Main Menu End-->
                 
-                   <li ><a href="service.php?service=<?php echo $key ?>"><?php echo $key?></a></li>
-                <?php endforeach;?> 
-                 
-                </ul>
-             </li>
-           
-          
-             <li ><a href="contact.php">Contact Us</a></li>
-          </ul>
-        </nav>
-        <!-- Main menu end -->   
-      </div>
-    </div>
-    <!-- Header area End -->
-  </header>
+                <!--Get Quote Button-->
+                
+            </div>
+        </div>
+    
+    </header>
+    <!--End Main Header -->

@@ -1,71 +1,98 @@
+<?php  include('config.php') ?>
 
-  <!-- Footer start -->
-  <footer class="site-footer">
-    <!-- Footer Top start -->
-    <div class="footer-top-area wow fadeInUp">
-      <div class="container">
-        <div class="row">
-           <div class="col-12 col-md-6 col-lg-4">
-              <div class="footer-wiz">
-                 <h3 class="footer-logo"><img src="assets/images/image_1.png" alt="footer logo"/></h3>
-                 <p>Marine Services ,Oil & Gas ,General Supplies</p>
-                 <ul class="footer-contact">
-                    <li><i class="fa fa-phone"></i><?php echo $settings['site_tel']?></li>
-                    <li><i class="fa fa-envelope"></i> <?php echo $settings['site_email']?></li>
+
+<!--Main Footer-->
+<footer class="main-footer">
+    	
+        <!--Footer Upper-->        
+        <div class="footer-upper">
+            <div class="auto-container">
+                <div class="clearfix">
+                	
+                    <!--Two 4th column-->
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+                    	<div class="row clearfix">
+                        	
+                            <!--Footer Column-->
+                        	<div class="col-md-8 col-sm-6 col-xs-12 column">
+                            	<div class="footer-widget about-widget">
+                                	<p>	<?php  echo $about['teaser'];  ?></p>
+                                    
+                                      
+                                </div>
+                            </div>
+                            
+                    		<!--Footer Column-->
+                        	<div class="col-md-4 col-sm-6 col-xs-12 column">
+                            	<div class="footer-widget links-widget">
+                                	<h2>Quick Links</h2>	
+                                    <ul>
+                                    	<li><a href="index.php">Home</a></li>
+                                        <li><a href="about_us.php">About Us</a></li>
+                                        <li><a href="services.php">Services</a></li>
+                                        <li><a href="contact_us.php">Contact Us</a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
                     
-                 </ul>
-              </div>
-              <div class="top-social bottom-social">
-                <a href="#"><i class="fa fa-facebook"></i></a>
-                <a href="#"><i class="fa fa-twitter"></i></a>
-               
-             </div>
-           </div>
-           <div class="col-12 col-md-6 col-lg-4">
-             <div class="footer-wiz footer-menu">
-                 <h3 class="footer-wiz-title">Quick Links</h3>
-                 <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="about.php">About Us</a></li>
-                    <li><a href="contact.php">Contact Us</a></li>
+                    <!--Two 4th column-->
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+                    	<div class="row clearfix">
+                    		<!--Footer Column-->
+                        	
+                            
+                            <!--Footer Column-->
+                        	<div class="col-md-8 col-sm-6 col-xs-12 column">
+                            	<div class="footer-widget contact-widget">
+                                	<h2>Contact Us</h2>
+                                	<ul>
+                                    	<li><strong>Address:</strong> <?php echo $settings['site_address'] ?></li>
+                                        <li><strong>Phone:</strong> <?php echo $settings['site_phone'] ?></li>
+                                        <li><strong>E-mail:</strong> <?php echo $settings['site_email'] ?></li>
+                                    </ul>
+                                    <br>
+                                    
+                                    
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
                     
-                 </ul>
-              </div>
-           </div>
-          
-           <div class="col-12 col-md-6 col-lg-4">
-              <div class="footer-wiz">
-                 <h3 class="footer-wiz-title">Opening Hours</h3>
-                 <ul class="open-hours">
-                   <li><span>Mon to Fri:</span> <span class="text-right">08:30AM to 05:30PM</span></li>
-                   <li><span>Sun:</span> <span class="text-right">8:30 50 to 06:30pm</span></li>
-                 </ul>
-                
-              </div>
-           </div>
+                    
+                </div>
+            </div>
         </div>
-     </div>
-   </div>
-   <!-- footer top end -->
-   
-   <!-- copyright start -->
-   <div class="footer-bottom-area">
-     <div class="container">
-        <div class="row">
-           <div class="col-12 col-lg-6">Copyright © <?php echo date('Y')?> <span><?php echo $settings['site_name']?></span>. All Rights Reserved</div>
-         </div>
-      </div>     
-    </div>
-    <!-- copyright end -->
-  </footer> 
-  <!-- Footer end -->
-  
-  <!-- Start scroll top -->
-  <div class="scrollup"><i class="fa fa-angle-up"></i></div>
-  <!-- End scroll top -->
-  
-  <!-- Tether JS -->
-  <script src="assets/js/js.js"></script>
+        
+        <!--Footer Bottom-->
+    	<div class="footer-bottom">
+            <div class="auto-container">
+                <!--Copyright-->
+                <div class="copyright">&copy; <?php  echo date('Y') ?> &ensp; <strong><?php echo $settings['site_name'] ?></strong> &ensp; All rights reserved</div>
+            </div>
+        </div>
+        
+    </footer>
+        	
+    
+</div>
+<!--End pagewrapper-->
+
+<!--Scroll to top-->
+<div class="scroll-to-top"><span class="icon flaticon-sky8"></span></div>
+
+<script src="js/jquery.js"></script> 
+<script src="js/bootstrap.min.js"></script>
+<script src="js/revolution.min.js"></script>
+<script src="js/owl.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/script.js"></script>
+<!--Start of Tawk.to Script-->
+
 
 </body>
 </html>

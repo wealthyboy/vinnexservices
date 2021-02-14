@@ -1,227 +1,76 @@
-[08-Mar-2020 00:15:13 America/New_York] PHP Notice:  Undefined index: Gas/MDO oil'A=0 in /home/bervasmarine/public_html/service.php on line 30
-[08-Mar-2020 18:11:08 America/New_York] PHP Notice:  Undefined index: Physical in /home/bervasmarine/public_html/service.php on line 30
-[08-Mar-2020 18:11:10 America/New_York] PHP Notice:  Undefined index: Fuel in /home/bervasmarine/public_html/service.php on line 30
-[08-Mar-2020 18:11:11 America/New_York] PHP Notice:  Undefined index: Gas/MDO in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:34:53 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:34:54 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:34:55 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:34:56 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:34:57 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:34:58 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:34:59 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:34:59 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:35:00 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:35:01 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:35:02 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:35:03 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:35:04 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:35:05 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:35:05 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:35:06 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:35:07 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:35:08 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[16-Mar-2020 00:35:09 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:38:52 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:38:58 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:39:04 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:39:10 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:39:16 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:39:24 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:39:30 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:39:37 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:39:43 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:39:50 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:39:56 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:40:17 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:40:26 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:40:31 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:40:39 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:40:45 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:40:51 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:40:57 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[23-Mar-2020 22:41:03 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Apr-2020 06:32:56 America/New_York] PHP Notice:  Undefined index: FuelOil in /home/bervasmarine/public_html/service.php on line 30
-[08-Apr-2020 06:32:56 America/New_York] PHP Notice:  Undefined index: Gas/MDOoil in /home/bervasmarine/public_html/service.php on line 30
-[08-Apr-2020 06:32:56 America/New_York] PHP Notice:  Undefined index: FuelOil in /home/bervasmarine/public_html/service.php on line 30
-[08-Apr-2020 06:32:56 America/New_York] PHP Notice:  Undefined index: Gas/MDOoil in /home/bervasmarine/public_html/service.php on line 30
-[08-Apr-2020 06:32:56 America/New_York] PHP Notice:  Undefined index: PhysicalBunkerSupplier in /home/bervasmarine/public_html/service.php on line 30
-[08-Apr-2020 06:32:56 America/New_York] PHP Notice:  Undefined index: LubricantandFreshwater in /home/bervasmarine/public_html/service.php on line 30
-[08-Apr-2020 06:32:57 America/New_York] PHP Notice:  Undefined index: LubricantandFreshwater in /home/bervasmarine/public_html/service.php on line 30
-[08-Apr-2020 06:32:57 America/New_York] PHP Notice:  Undefined index: PhysicalBunkerSupplier in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:38 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:39 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:40 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:41 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:45 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:46 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:47 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:50 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:51 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:52 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:54 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:55 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:56 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:17:57 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:18:00 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:18:02 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:18:04 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:18:05 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[13-Apr-2020 13:18:06 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:40 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:41 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:42 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:42 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:43 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:44 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:44 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:45 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:46 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:46 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:47 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:48 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:48 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:49 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:50 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:50 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:51 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:52 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:15:52 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:27 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:27 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:28 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:29 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:29 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:30 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:31 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:31 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:32 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:32 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:33 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:34 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:34 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:35 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:36 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:36 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:37 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:37 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[18-Apr-2020 14:38:38 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[29-Apr-2020 05:46:18 America/New_York] PHP Notice:  Undefined index: Physical in /home/bervasmarine/public_html/service.php on line 30
-[29-Apr-2020 05:46:20 America/New_York] PHP Notice:  Undefined index: Fuel in /home/bervasmarine/public_html/service.php on line 30
-[29-Apr-2020 05:46:21 America/New_York] PHP Notice:  Undefined index: Gas/MDO in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:55 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:55 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:55 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:55 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:55 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:56 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:56 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:56 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:56 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:56 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:57 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:57 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:57 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:57 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:58 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:58 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:58 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:58 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-May-2020 17:05:58 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[10-Jun-2020 07:12:22 America/New_York] PHP Notice:  Undefined index: physicalbunkersupplier in /home/bervasmarine/public_html/service.php on line 30
-[17-Jun-2020 02:50:14 America/New_York] PHP Notice:  Undefined index: lubricantandfreshwater in /home/bervasmarine/public_html/service.php on line 30
-[17-Jun-2020 02:50:15 America/New_York] PHP Notice:  Undefined index: gas/mdooil in /home/bervasmarine/public_html/service.php on line 30
-[17-Jun-2020 02:50:15 America/New_York] PHP Notice:  Undefined index: physicalbunkersupplier in /home/bervasmarine/public_html/service.php on line 30
-[17-Jun-2020 02:50:16 America/New_York] PHP Notice:  Undefined index: fueloil in /home/bervasmarine/public_html/service.php on line 30
-[20-Jun-2020 12:23:12 America/New_York] PHP Notice:  Undefined index: Physical in /home/bervasmarine/public_html/service.php on line 30
-[20-Jun-2020 12:23:13 America/New_York] PHP Notice:  Undefined index: Fuel in /home/bervasmarine/public_html/service.php on line 30
-[20-Jun-2020 12:23:14 America/New_York] PHP Notice:  Undefined index: Gas/MDO in /home/bervasmarine/public_html/service.php on line 30
-[29-Jun-2020 11:17:32 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[15-Jul-2020 18:08:37 America/New_York] PHP Notice:  Undefined index: FuelOil in /home/bervasmarine/public_html/service.php on line 30
-[15-Jul-2020 18:08:37 America/New_York] PHP Notice:  Undefined index: Gas/MDOoil in /home/bervasmarine/public_html/service.php on line 30
-[15-Jul-2020 18:08:37 America/New_York] PHP Notice:  Undefined index: FuelOil in /home/bervasmarine/public_html/service.php on line 30
-[15-Jul-2020 18:08:37 America/New_York] PHP Notice:  Undefined index: Gas/MDOoil in /home/bervasmarine/public_html/service.php on line 30
-[15-Jul-2020 18:08:37 America/New_York] PHP Notice:  Undefined index: LubricantandFreshwater in /home/bervasmarine/public_html/service.php on line 30
-[15-Jul-2020 18:08:37 America/New_York] PHP Notice:  Undefined index: PhysicalBunkerSupplier in /home/bervasmarine/public_html/service.php on line 30
-[15-Jul-2020 18:08:38 America/New_York] PHP Notice:  Undefined index: LubricantandFreshwater in /home/bervasmarine/public_html/service.php on line 30
-[15-Jul-2020 18:08:38 America/New_York] PHP Notice:  Undefined index: PhysicalBunkerSupplier in /home/bervasmarine/public_html/service.php on line 30
-[12-Aug-2020 01:49:42 America/New_York] PHP Notice:  Undefined index: Physical in /home/bervasmarine/public_html/service.php on line 30
-[12-Aug-2020 01:49:43 America/New_York] PHP Notice:  Undefined index: Fuel in /home/bervasmarine/public_html/service.php on line 30
-[12-Aug-2020 01:49:44 America/New_York] PHP Notice:  Undefined index: Gas/MDO in /home/bervasmarine/public_html/service.php on line 30
-[19-Aug-2020 04:00:41 America/New_York] PHP Notice:  Undefined index: gas/mdo oil in /home/bervasmarine/public_html/service.php on line 30
-[19-Aug-2020 04:00:42 America/New_York] PHP Notice:  Undefined index: fuel oil in /home/bervasmarine/public_html/service.php on line 30
-[19-Aug-2020 04:00:42 America/New_York] PHP Notice:  Undefined index: lubricant and fresh water in /home/bervasmarine/public_html/service.php on line 30
-[19-Aug-2020 04:00:42 America/New_York] PHP Notice:  Undefined index: physical bunker supplier in /home/bervasmarine/public_html/service.php on line 30
-[19-Aug-2020 21:34:12 America/New_York] PHP Notice:  Undefined index: physical bunker supplier in /home/bervasmarine/public_html/service.php on line 30
-[11-Sep-2020 03:39:12 America/New_York] PHP Notice:  Undefined index: gas/mdo oil in /home/bervasmarine/public_html/service.php on line 30
-[11-Sep-2020 03:39:12 America/New_York] PHP Notice:  Undefined index: fuel oil in /home/bervasmarine/public_html/service.php on line 30
-[11-Sep-2020 03:39:13 America/New_York] PHP Notice:  Undefined index: lubricant and fresh water in /home/bervasmarine/public_html/service.php on line 30
-[11-Sep-2020 03:39:13 America/New_York] PHP Notice:  Undefined index: physical bunker supplier in /home/bervasmarine/public_html/service.php on line 30
-[15-Sep-2020 19:13:21 America/New_York] PHP Notice:  Undefined index:  in /home/bervasmarine/public_html/service.php on line 30
-[15-Sep-2020 19:13:21 America/New_York] PHP Notice:  Undefined index: service in /home/bervasmarine/public_html/service.php on line 39
-[15-Sep-2020 19:13:21 America/New_York] PHP Notice:  Undefined index: service in /home/bervasmarine/public_html/service.php on line 39
-[15-Sep-2020 19:13:21 America/New_York] PHP Notice:  Undefined index: service in /home/bervasmarine/public_html/service.php on line 39
-[15-Sep-2020 19:13:21 America/New_York] PHP Notice:  Undefined index: service in /home/bervasmarine/public_html/service.php on line 39
-[02-Oct-2020 11:54:53 America/New_York] PHP Notice:  Undefined index: physical bunker supplier in /home/bervasmarine/public_html/service.php on line 30
-[02-Oct-2020 11:54:56 America/New_York] PHP Notice:  Undefined index: physical bunker supplier in /home/bervasmarine/public_html/service.php on line 30
-[02-Oct-2020 11:55:01 America/New_York] PHP Notice:  Undefined index: physical bunker supplier in /home/bervasmarine/public_html/service.php on line 30
-[02-Oct-2020 11:55:05 America/New_York] PHP Notice:  Undefined index: physical bunker supplier in /home/bervasmarine/public_html/service.php on line 30
-[06-Oct-2020 03:20:40 America/New_York] PHP Notice:  Undefined index: Physical in /home/bervasmarine/public_html/service.php on line 30
-[06-Oct-2020 03:20:41 America/New_York] PHP Notice:  Undefined index: Fuel in /home/bervasmarine/public_html/service.php on line 30
-[06-Oct-2020 03:20:42 America/New_York] PHP Notice:  Undefined index: Gas/MDO in /home/bervasmarine/public_html/service.php on line 30
-[21-Oct-2020 21:01:54 America/New_York] PHP Notice:  Undefined index: FuelOil in /home/bervasmarine/public_html/service.php on line 30
-[21-Oct-2020 21:01:55 America/New_York] PHP Notice:  Undefined index: Gas/MDOoil in /home/bervasmarine/public_html/service.php on line 30
-[21-Oct-2020 21:01:55 America/New_York] PHP Notice:  Undefined index: FuelOil in /home/bervasmarine/public_html/service.php on line 30
-[21-Oct-2020 21:01:56 America/New_York] PHP Notice:  Undefined index: Gas/MDOoil in /home/bervasmarine/public_html/service.php on line 30
-[21-Oct-2020 21:01:56 America/New_York] PHP Notice:  Undefined index: PhysicalBunkerSupplier in /home/bervasmarine/public_html/service.php on line 30
-[21-Oct-2020 21:01:57 America/New_York] PHP Notice:  Undefined index: LubricantandFreshwater in /home/bervasmarine/public_html/service.php on line 30
-[21-Oct-2020 21:01:57 America/New_York] PHP Notice:  Undefined index: PhysicalBunkerSupplier in /home/bervasmarine/public_html/service.php on line 30
-[21-Oct-2020 21:01:57 America/New_York] PHP Notice:  Undefined index: LubricantandFreshwater in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:50:41 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:50:43 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:50:49 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:50:51 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:50:53 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:50:55 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:50:57 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:51:00 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:51:03 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:51:05 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:51:07 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:51:14 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:51:16 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:51:18 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:51:20 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:51:21 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:51:23 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:51:26 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[03-Nov-2020 13:51:28 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:52 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:52 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:53 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:53 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:54 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:54 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:55 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:56 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:56 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:57 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:57 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:58 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:58 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:59 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:44:59 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:45:00 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:45:00 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:45:01 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[08-Nov-2020 12:45:02 America/New_York] PHP Notice:  Undefined index: Physical' in /home/bervasmarine/public_html/service.php on line 30
-[28-Nov-2020 08:20:06 America/New_York] PHP Notice:  Undefined index: Physical in /home/bervasmarine/public_html/service.php on line 30
-[28-Nov-2020 08:20:07 America/New_York] PHP Notice:  Undefined index: Fuel in /home/bervasmarine/public_html/service.php on line 30
-[28-Nov-2020 08:20:09 America/New_York] PHP Notice:  Undefined index: Gas/MDO in /home/bervasmarine/public_html/service.php on line 30
-[04-Jan-2021 08:06:13 America/New_York] PHP Notice:  Undefined index: FuelOil in /home/bervasmarine/public_html/service.php on line 30
-[04-Jan-2021 08:06:13 America/New_York] PHP Notice:  Undefined index: Gas/MDOoil in /home/bervasmarine/public_html/service.php on line 30
-[04-Jan-2021 08:06:13 America/New_York] PHP Notice:  Undefined index: FuelOil in /home/bervasmarine/public_html/service.php on line 30
-[04-Jan-2021 08:06:13 America/New_York] PHP Notice:  Undefined index: Gas/MDOoil in /home/bervasmarine/public_html/service.php on line 30
-[04-Jan-2021 08:06:13 America/New_York] PHP Notice:  Undefined index: PhysicalBunkerSupplier in /home/bervasmarine/public_html/service.php on line 30
-[04-Jan-2021 08:06:13 America/New_York] PHP Notice:  Undefined index: LubricantandFreshwater in /home/bervasmarine/public_html/service.php on line 30
-[04-Jan-2021 08:06:13 America/New_York] PHP Notice:  Undefined index: LubricantandFreshwater in /home/bervasmarine/public_html/service.php on line 30
-[04-Jan-2021 08:06:13 America/New_York] PHP Notice:  Undefined index: PhysicalBunkerSupplier in /home/bervasmarine/public_html/service.php on line 30
+[28-Jul-2020 03:01:53 America/New_York] PHP Notice:  Undefined index: Marine SecuriTy Services,),,¿',",.,-- - in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:01:54 America/New_York] PHP Notice:  Undefined index: Marine secURITy Services¿'XLNUKq<'">HSBdoM-- - in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:01:56 America/New_York] PHP Notice:  Undefined index: Marine SECUrITy Services in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:03 America/New_York] PHP Notice:  Undefined index: Marine seCurity Services) aNd 4794=caSt((CHr(113)||CHr(112)||CHr(113)||CHr(98)||CHr(113))||(selEct (Case whEN (4794=4794) ThEn 1 ELse 0 EnD))::Text||(CHr(113)||CHr(118)||CHr(98)||CHr(112)||CHr(113)) As NuMERIC) aNd (8866=8866 in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:04 America/New_York] PHP Notice:  Undefined index: Marine sEcurity Services aNd 4794=CAst((cHR(113)||cHR(112)||cHR(113)||cHR(98)||cHR(113))||(seleCt (CaSe WheN (4794=4794) tHen 1 Else 0 ENd))::TEXt||(cHR(113)||cHR(118)||cHR(98)||cHR(112)||cHR(113)) aS NUMeRic) in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:06 America/New_York] PHP Notice:  Undefined index: Marine sEcuRITY Services¿') And 4794=CaSt((Chr(113)||Chr(112)||Chr(113)||Chr(98)||Chr(113))||(SElECt (caSe wHEN (4794=4794) tHEn 1 eLSE 0 eNd))::tEXT||(Chr(113)||Chr(118)||Chr(98)||Chr(112)||Chr(113)) aS NUMeRIc) And ('dwRn'='dwRn-- - in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:07 America/New_York] PHP Notice:  Undefined index: Marine sEcuRitY Services¿' AnD 4794=casT((cHR(113)||cHR(112)||cHR(113)||cHR(98)||cHR(113))||(selECT (cAse wheN (4794=4794) THEn 1 elSe 0 enD))::TExt||(cHR(113)||cHR(118)||cHR(98)||cHR(112)||cHR(113)) As nUMeRiC) AnD 'EYYe'='EYYe-- - in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:08 America/New_York] PHP Notice:  Undefined index: Marine SeCuRITy Services AnD 4794=CAsT((chR(113)||chR(112)||chR(113)||chR(98)||chR(113))||(sEleCT (CaSe whEn (4794=4794) thEN 1 eLSe 0 eND))::TeXT||(chR(113)||chR(118)||chR(98)||chR(112)||chR(113)) aS nuMERiC)-- gjpH in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:09 America/New_York] PHP Notice:  Undefined index: Marine SEcUriTY Services) anD 8113 iN (SElecT (chAr(113)+chAr(112)+chAr(113)+chAr(98)+chAr(113)+(SElecT (cASe WhEn (8113=8113) TheN chAr(49) eLSe chAr(48) End))+chAr(113)+chAr(118)+chAr(98)+chAr(112)+chAr(113))) anD (6875=6875 in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:10 America/New_York] PHP Notice:  Undefined index: Marine SECUriTy Services aNd 8113 iN (SELEct (chaR(113)+chaR(112)+chaR(113)+chaR(98)+chaR(113)+(SELEct (caSE WhEn (8113=8113) thEn chaR(49) elSe chaR(48) EnD))+chaR(113)+chaR(118)+chaR(98)+chaR(112)+chaR(113))) in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:12 America/New_York] PHP Notice:  Undefined index: Marine securiTy Services¿') ANd 8113 iN (SELEcT (chAr(113)+chAr(112)+chAr(113)+chAr(98)+chAr(113)+(SELEcT (cASe WhEN (8113=8113) tHen chAr(49) ELse chAr(48) enD))+chAr(113)+chAr(118)+chAr(98)+chAr(112)+chAr(113))) ANd ('swsC'='swsC-- - in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:13 America/New_York] PHP Notice:  Undefined index: Marine SEcurItY Services¿' anD 8113 iN (seLeCT (cHar(113)+cHar(112)+cHar(113)+cHar(98)+cHar(113)+(seLeCT (cAse WhEn (8113=8113) THen cHar(49) eLsE cHar(48) ENd))+cHar(113)+cHar(118)+cHar(98)+cHar(112)+cHar(113))) anD 'jQPu'='jQPu-- - in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:14 America/New_York] PHP Notice:  Undefined index: Marine SeCUrity Services anD 8113 In (sELeCT (CHaR(113)+CHaR(112)+CHaR(113)+CHaR(98)+CHaR(113)+(sELeCT (CAsE wHen (8113=8113) TheN CHaR(49) eLSe CHaR(48) eNd))+CHaR(113)+CHaR(118)+CHaR(98)+CHaR(112)+CHaR(113)))-- pDov in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:15 America/New_York] PHP Notice:  Undefined index: Marine sECURitY Services) anD 7158=(selECT UpPEr(XMlTYpE(cHR(60)||cHR(58)||cHR(113)||cHR(112)||cHR(113)||cHR(98)||cHR(113)||(selECT (cAsE wheN (7158=7158) tHEN 1 ElSE 0 EnD) From duAl)||cHR(113)||cHR(118)||cHR(98)||cHR(112)||cHR(113)||cHR(62))) From duAl) anD (5703=5703 in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:16 America/New_York] PHP Notice:  Undefined index: Marine seCuRity Services And 7158=(seLEcT UPPEr(xMLTyPe(Chr(60)||Chr(58)||Chr(113)||Chr(112)||Chr(113)||Chr(98)||Chr(113)||(seLEcT (CasE When (7158=7158) tHEN 1 elSE 0 eNd) frOm DUal)||Chr(113)||Chr(118)||Chr(98)||Chr(112)||Chr(113)||Chr(62))) frOm DUal) in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:18 America/New_York] PHP Notice:  Undefined index: Marine sECURiTY Services¿') ANd 7158=(SElEct UppER(Xmltype(Chr(60)||Chr(58)||Chr(113)||Chr(112)||Chr(113)||Chr(98)||Chr(113)||(SElEct (caSE WHen (7158=7158) theN 1 ELsE 0 End) fROm DuaL)||Chr(113)||Chr(118)||Chr(98)||Chr(112)||Chr(113)||Chr(62))) fROm DuaL) ANd ('ZfDb'='ZfDb-- - in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:19 America/New_York] PHP Notice:  Undefined index: Marine SeCuRIty Services¿' AnD 7158=(selecT Upper(XMLtyPe(ChR(60)||ChR(58)||ChR(113)||ChR(112)||ChR(113)||ChR(98)||ChR(113)||(selecT (casE whEN (7158=7158) tHeN 1 ElsE 0 ENd) FrOM DuaL)||ChR(113)||ChR(118)||ChR(98)||ChR(112)||ChR(113)||ChR(62))) FrOM DuaL) AnD 'Tpdb'='Tpdb-- - in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:20 America/New_York] PHP Notice:  Undefined index: Marine SEcUrITy Services ANd 7158=(sElECT uPpEr(xmLtYPE(Chr(60)||Chr(58)||Chr(113)||Chr(112)||Chr(113)||Chr(98)||Chr(113)||(sElECT (cAse wHEN (7158=7158) theN 1 ElSE 0 ENd) frOM duAL)||Chr(113)||Chr(118)||Chr(98)||Chr(112)||Chr(113)||Chr(62))) frOM duAL)-- arEA in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:22 America/New_York] PHP Notice:  Undefined index: Marine SECUritY Services) OrDer By 1-- MUQO in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:24 America/New_York] PHP Notice:  Undefined index: Marine SeCurItY Services) orDER bY 4620-- IIVe in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:25 America/New_York] PHP Notice:  Undefined index: Marine sEcurity Services OrdER By 1-- lmiR in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:26 America/New_York] PHP Notice:  Undefined index: Marine SeCuRIty Services OrDER bY 2406-- emrz in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:27 America/New_York] PHP Notice:  Undefined index: Marine SECURIty Services¿') ORDEr bY 1-- WNuT in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:29 America/New_York] PHP Notice:  Undefined index: Marine SeCUrity Services¿') ORdEr By 3708-- Ozbq in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:30 America/New_York] PHP Notice:  Undefined index: Marine SECuriTY Services¿' ordER bY 1-- NIpJ in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:31 America/New_York] PHP Notice:  Undefined index: Marine SEcUrity Services¿' oRdeR By 9120-- ztLR in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:32 America/New_York] PHP Notice:  Undefined index: Marine secuRitY Services OrdER bY 1-- vlHJ in /home/vinnexservices/public_html/services.php on line 63
+[28-Jul-2020 03:02:34 America/New_York] PHP Notice:  Undefined index: Marine SEcUrItY Services oRdEr bY 5476-- Ictu in /home/vinnexservices/public_html/services.php on line 63
+[07-Aug-2020 22:55:02 America/New_York] PHP Notice:  Undefined index: SupplyChainManagement(SCM) in /home/vinnexservices/public_html/services.php on line 63
+[07-Aug-2020 22:55:02 America/New_York] PHP Notice:  Undefined index: DeckStoreSuppliers in /home/vinnexservices/public_html/services.php on line 63
+[07-Aug-2020 22:55:02 America/New_York] PHP Notice:  Undefined index: MarineSecurityServices in /home/vinnexservices/public_html/services.php on line 63
+[07-Aug-2020 22:55:02 America/New_York] PHP Notice:  Undefined index: TransportationandDistribution(Haulage) in /home/vinnexservices/public_html/services.php on line 63
+[07-Aug-2020 22:55:02 America/New_York] PHP Notice:  Undefined index: DieselBunkerSupply in /home/vinnexservices/public_html/services.php on line 63
+[07-Aug-2020 22:55:02 America/New_York] PHP Notice:  Undefined index: Ship-to-shipoperation(STS) in /home/vinnexservices/public_html/services.php on line 63
+[07-Aug-2020 22:55:02 America/New_York] PHP Notice:  Undefined index: MarineServices in /home/vinnexservices/public_html/services.php on line 63
+[07-Aug-2020 22:55:02 America/New_York] PHP Notice:  Undefined index: ShipStoreSuppliers in /home/vinnexservices/public_html/services.php on line 63
+[14-Aug-2020 20:34:30 America/New_York] PHP Notice:  Undefined index: Marine in /home/vinnexservices/public_html/services.php on line 63
+[14-Aug-2020 20:34:31 America/New_York] PHP Notice:  Undefined index: Diesel in /home/vinnexservices/public_html/services.php on line 63
+[08-Oct-2020 20:18:25 America/New_York] PHP Notice:  Undefined index: Marine in /home/vinnexservices/public_html/services.php on line 63
+[08-Oct-2020 20:18:26 America/New_York] PHP Notice:  Undefined index: Diesel in /home/vinnexservices/public_html/services.php on line 63
+[06-Nov-2020 10:04:38 America/New_York] PHP Notice:  Undefined index: SupplyChainManagement(SCM) in /home/vinnexservices/public_html/services.php on line 63
+[06-Nov-2020 10:04:38 America/New_York] PHP Notice:  Undefined index: DeckStoreSuppliers in /home/vinnexservices/public_html/services.php on line 63
+[06-Nov-2020 10:04:38 America/New_York] PHP Notice:  Undefined index: MarineSecurityServices in /home/vinnexservices/public_html/services.php on line 63
+[06-Nov-2020 10:04:38 America/New_York] PHP Notice:  Undefined index: TransportationandDistribution(Haulage) in /home/vinnexservices/public_html/services.php on line 63
+[06-Nov-2020 10:04:38 America/New_York] PHP Notice:  Undefined index: DieselBunkerSupply in /home/vinnexservices/public_html/services.php on line 63
+[06-Nov-2020 10:04:38 America/New_York] PHP Notice:  Undefined index: Ship-to-shipoperation(STS) in /home/vinnexservices/public_html/services.php on line 63
+[06-Nov-2020 10:04:38 America/New_York] PHP Notice:  Undefined index: MarineServices in /home/vinnexservices/public_html/services.php on line 63
+[06-Nov-2020 10:04:39 America/New_York] PHP Notice:  Undefined index: ShipStoreSuppliers in /home/vinnexservices/public_html/services.php on line 63
+[01-Dec-2020 01:48:06 America/New_York] PHP Notice:  Undefined index: Marine in /home/vinnexservices/public_html/services.php on line 63
+[01-Dec-2020 01:48:07 America/New_York] PHP Notice:  Undefined index: Diesel in /home/vinnexservices/public_html/services.php on line 63
+[28-Dec-2020 15:29:28 America/New_York] PHP Notice:  Undefined index: Ship-to-ship operation (STS)'[0] in /home/vinnexservices/public_html/services.php on line 63
+[28-Dec-2020 15:29:32 America/New_York] PHP Notice:  Undefined index: http://www.google.com in /home/vinnexservices/public_html/services.php on line 63
+[02-Jan-2021 23:54:10 America/New_York] PHP Notice:  Undefined index:  transportation and distribution (haulage) in /home/vinnexservices/public_html/services.php on line 63
+[02-Jan-2021 23:54:22 America/New_York] PHP Notice:  Undefined index: deck store suppliers in /home/vinnexservices/public_html/services.php on line 63
+[02-Jan-2021 23:54:33 America/New_York] PHP Notice:  Undefined index: diesel bunker supply in /home/vinnexservices/public_html/services.php on line 63
+[02-Jan-2021 23:54:43 America/New_York] PHP Notice:  Undefined index: marine security services in /home/vinnexservices/public_html/services.php on line 63
+[02-Jan-2021 23:54:53 America/New_York] PHP Notice:  Undefined index: marine services in /home/vinnexservices/public_html/services.php on line 63
+[02-Jan-2021 23:55:05 America/New_York] PHP Notice:  Undefined index: ship store suppliers in /home/vinnexservices/public_html/services.php on line 63
+[02-Jan-2021 23:55:15 America/New_York] PHP Notice:  Undefined index: ship-to-ship operation (sts) in /home/vinnexservices/public_html/services.php on line 63
+[02-Jan-2021 23:55:25 America/New_York] PHP Notice:  Undefined index: supply chain management (scm) in /home/vinnexservices/public_html/services.php on line 63
+[07-Jan-2021 20:21:35 America/New_York] PHP Notice:  Undefined index: DeckStoreSuppliers in /home/vinnexservices/public_html/services.php on line 63
+[07-Jan-2021 20:21:35 America/New_York] PHP Notice:  Undefined index: SupplyChainManagement(SCM) in /home/vinnexservices/public_html/services.php on line 63
+[07-Jan-2021 20:21:35 America/New_York] PHP Notice:  Undefined index: MarineSecurityServices in /home/vinnexservices/public_html/services.php on line 63
+[07-Jan-2021 20:21:35 America/New_York] PHP Notice:  Undefined index: TransportationandDistribution(Haulage) in /home/vinnexservices/public_html/services.php on line 63
+[07-Jan-2021 20:21:35 America/New_York] PHP Notice:  Undefined index: Ship-to-shipoperation(STS) in /home/vinnexservices/public_html/services.php on line 63
+[07-Jan-2021 20:21:35 America/New_York] PHP Notice:  Undefined index: DieselBunkerSupply in /home/vinnexservices/public_html/services.php on line 63
+[07-Jan-2021 20:21:36 America/New_York] PHP Notice:  Undefined index: MarineServices in /home/vinnexservices/public_html/services.php on line 63
+[07-Jan-2021 20:21:36 America/New_York] PHP Notice:  Undefined index: ShipStoreSuppliers in /home/vinnexservices/public_html/services.php on line 63
+[09-Jan-2021 15:25:30 America/New_York] PHP Notice:  Undefined index: supply chain management (scm) in /home/vinnexservices/public_html/services.php on line 63
+[09-Jan-2021 15:25:30 America/New_York] PHP Notice:  Undefined index: ship store suppliers in /home/vinnexservices/public_html/services.php on line 63
+[09-Jan-2021 15:25:30 America/New_York] PHP Notice:  Undefined index: deck store suppliers in /home/vinnexservices/public_html/services.php on line 63
+[09-Jan-2021 15:25:30 America/New_York] PHP Notice:  Undefined index: marine services in /home/vinnexservices/public_html/services.php on line 63
+[09-Jan-2021 15:25:31 America/New_York] PHP Notice:  Undefined index: diesel bunker supply in /home/vinnexservices/public_html/services.php on line 63
+[09-Jan-2021 15:25:31 America/New_York] PHP Notice:  Undefined index: ship-to-ship operation (sts) in /home/vinnexservices/public_html/services.php on line 63
+[09-Jan-2021 15:25:31 America/New_York] PHP Notice:  Undefined index: marine security services in /home/vinnexservices/public_html/services.php on line 63
+[09-Jan-2021 15:25:31 America/New_York] PHP Notice:  Undefined index:  transportation and distribution (haulage) in /home/vinnexservices/public_html/services.php on line 63
