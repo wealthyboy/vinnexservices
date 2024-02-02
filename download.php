@@ -9,7 +9,7 @@ if (file_exists($filePath)) {
 
     // Set appropriate headers for PDF file
     header('Content-Type: application/pdf');
-    header('Content-Disposition: attachment; filename="downloaded_file.pdf"');
+    header('Content-Disposition: attachment; filename="vinnexservices.pdf"');
     header('Content-Length: ' . filesize($filePath));
 
     // Output the file content
