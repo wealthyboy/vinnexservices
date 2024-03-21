@@ -7,4 +7,4 @@ $settings = [
 	'site_phone' => ' +234 8178765125,+234 906 892 5416',
 	'site_email' => 'info@vinnexservices.com / bunkers@vinnexservices.com',
 	'site_address' => '8 Payne Crescent Apapa, Lagos,Nigeria.'
-]
+];
